@@ -1,5 +1,5 @@
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 @interface TestClass : NSObject
 
